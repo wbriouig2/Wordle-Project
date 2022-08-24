@@ -1,0 +1,80 @@
+body {
+	background: #18191a;
+
+
+}
+marquee {
+	font-family: lucida console;
+	font-size: 130%;
+	background: darkcyan;
+	padding-top: 5px;
+	padding-bottom: 3px;
+}
+center {
+	font-size: 30px;
+	font-family: 'Brush script MT', cursive ;
+	font-weight: bold;
+	color: white;
+	background-color: neongreen;
+	padding: 5px 10px 10px 10px;
+}
+ul li {
+	display: inline;
+	margin: 342px;
+	font-family: lucida console;
+	font-size: 25px ;
+}
+a {
+	text-decoration: none;
+	color: skyblue;
+	background-color: none;
+}
+a:hover {
+	color: darkmagenta;
+}
+.square0 {
+	width: 50px;
+	height: 50px;
+	background-color: #18191a;
+	outline-style: solid;
+	outline-color: white;
+	margin-top: 190px;
+	margin-left: 200px ;
+	margin-right: 50px;
+}
+
+div input {
+	width: 50px;
+	height: 50px;
+	background-color: #18191a;
+	outline-style: solid;
+	outline-color: cyan;
+	margin: 200px 0px 20px 0px;
+	text-transform: uppercase;
+}
+.row2 input {
+	width: 50px;
+	height: 50px;
+	background-color: #18191a;
+	outline-style: solid;
+	outline-color: cyan;
+	margin: 0px;
+	text-transform: uppercase;
+}
+.row3 input {
+	width: 50px;
+	height: 50px;
+	background-color: #18191a;
+	outline-style: solid;
+	outline-color: cyan;
+	margin: 20px 0px 20px 0px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
